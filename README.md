@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm b1twis3!
 
-<a href="https://b1twis3.ca">
+<a href="http://b1twis3.ca/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoid&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
 </a>
 
-<a href="https://b1twis3.ca">
+<a href="http://b1twis3.ca/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoid&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
