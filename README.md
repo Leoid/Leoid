@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm b1twis3!
 
 <a href="http://b1twis3.ca/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoid&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoid&show_icons=true&line_height=33&count_private=true&theme=dark" alt="b1twis3's GitHub Stats" />
 </a>
 
 <a href="http://b1twis3.ca/">
